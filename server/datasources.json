@@ -1,0 +1,16 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "memory"
+  },
+  "employeesdb": {
+    "host": "localhost",
+    "port": 32790,
+    "url": "",
+    "database": "employeesdb",
+    "password": "",
+    "name": "employeesdb",
+    "user": "",
+    "connector": "mongodb"
+  }
+}
